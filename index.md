@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Learning Objectives
 
 You can use the [editor on GitHub](https://github.com/malavhs/CS4660Project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
